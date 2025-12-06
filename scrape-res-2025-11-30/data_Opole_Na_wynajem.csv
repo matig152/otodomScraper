@@ -1,0 +1,94 @@
+price,n_rooms,area,price_per_m2,link,title,address,district
+2800,2,51.0,55.0,https://www.otodom.pl/pl/oferta/przytulny-apartament-opole-ul-domanskiego-ID4xOZc,Przytulny Apartament Opole ul. Domańskiego,"ul. ks. Bolesława Domańskiego, Zaodrze, Opole, opolskie",Zaodrze
+2700,3,50.0,54.0,https://www.otodom.pl/pl/oferta/bezczynszowe-mieszkanie-z-osobnym-wejsciem-ul-luboszycka-36a-ID4yV9l,Bezczynszowe mieszkanie z osobnym wejściem – ul. Luboszycka 36A,"ul. Luboszycka, Zakrzów, Opole, opolskie",Zakrzów
+1800,2,39.0,46.0,https://www.otodom.pl/pl/oferta/dwupokojowe-mieszkanie-w-centrum-ul-duboisa-ID4zbWf,"Dwupokojowe mieszkanie w Centrum, ul. Duboisa","Śródmieście, Opole, opolskie",Śródmieście
+2920,3,66.0,44.0,https://www.otodom.pl/pl/oferta/mieszkanie-66m-balkon-27m-do-wynajecia-osiedle-nowe-przylesie-ID4zbTo,Mieszkanie 66m + balkon 27m do wynajęcia osiedle Nowe Przylesie,"ul. 10 Sudeckiej Dywizji Zmechanizowanej, Półwieś, Opole, opolskie",Półwieś
+2600,3,84.0,31.0,https://www.otodom.pl/pl/oferta/3-pokoje-84m2-1-pietro-balkon-media-miejskie-ID4za32,3 pokoje 84m2 1 Piętro / BALKON / Media Miejskie,"ul. ks. Konstantego Damrota, Stare Miasto, Opole, opolskie",Stare Miasto
+2500,2,40.0,62.0,https://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-ul-jagielly-czarnowasy-opole-ID4zbzS,"Mieszkanie do wynajęcia – ul. Jagiełły, Czarnowąsy (Opole)","ul. Władysława Jagiełły, Czarnowąsy, Opole, opolskie",Czarnowąsy
+3900,2,100.0,39.0,https://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-ul-krakowska-39-3a-opole-ID4zbx4,"Mieszkanie do wynajęcia – ul. Krakowska 39/3a, Opole","ul. Krakowska, Stare Miasto, Opole, opolskie",Stare Miasto
+3100,3,74.0,42.0,https://www.otodom.pl/pl/oferta/3-pokoje-74m2-media-miejskie-balkon-garaz-miejsce-postojowe-ID4yYMC,3 pokoje 74m2 Media miejskie - BALKON/Garaż + miejsce postojowe/,"ul. Górna, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+3250,3,69.0,47.0,https://www.otodom.pl/pl/oferta/3-pok-piekny-apartament-balkon-2mp-ul-ozimska-ID4rPpR,"3 pok. piękny apartament, balkon, 2MP, ul. Ozimska","ul. Ozimska, Śródmieście, Opole, opolskie",Śródmieście
+2200,3,48.0,46.0,https://www.otodom.pl/pl/oferta/433-17022-omw-ID4zb7A,433/17022/OMW,"Stare Miasto, Opole, opolskie",Stare Miasto
+2600,2,49.0,53.0,https://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-2-pokoje-garaz-opole-ID46e73,"Mieszkanie do wynajęcia, 2 pokoje, garaż ,Opole","Gosławice, Opole, opolskie",Gosławice
+1300,2,52.0,25.0,https://www.otodom.pl/pl/oferta/wynajem-mieszkania-dobra-lokalizacja-ID4z5sa,Wynajem mieszkania dobra lokalizacja,"Stare Miasto, Opole, opolskie",Stare Miasto
+3490,3,57.0,61.0,https://www.otodom.pl/pl/oferta/nowoczesny-apartament-57m-w-sercu-opola-komfort-na-wyciagniecie-reki-ID4yk8s,Nowoczesny apartament 57m² w sercu Opola-komfort na wyciągnięcie ręki!,"ul. Katowicka, Śródmieście, Opole, opolskie",Śródmieście
+2500,2,48.0,52.0,https://www.otodom.pl/pl/oferta/nowoczesne-2-pokojowe-mieszkanie-ul-rejtana-z-hustawka-ID4zaJP,Nowoczesne 2-pokojowe mieszkanie ul Rejtana z huśtawką,"Śródmieście, Opole, opolskie",Śródmieście
+1600,2,53.0,30.0,https://www.otodom.pl/pl/oferta/do-wynajecia-3-pokojowe-mieszkanie-dostepne-2-pokoje-1800-calosc-ID4zape,Do wynajęcia 3-pokojowe mieszkanie (dostępne 2 pokoje) - 1800 całość!,"Stare Miasto, Opole, opolskie",Stare Miasto
+1900,2,39.0,49.0,https://www.otodom.pl/pl/oferta/ciekawe-2-pok-mieszkanie-przy-ul-wojska-polskiego-ID4z9Fd,Ciekawe 2 pok.mieszkanie przy ul.Wojska Polskiego,"Szczepanowice - Wójtowa Wieś, Opole, opolskie",Szczepanowice - Wójtowa Wieś
+2000,1,35.0,57.0,https://www.otodom.pl/pl/oferta/male-sloneczne-mieszkanie-z-balkonem-ID4ly3l,Małe słoneczne mieszkanie z balkonem,"Armii Krajowej, Opole, opolskie",Armii Krajowej
+2400,2,58.54,41.0,https://www.otodom.pl/pl/oferta/ul-krakowska-58m2-na-wynajem-super-lokalizacja-ID4z8Ci,Ul. Krakowska | 58m2 na Wynajem | Super Lokalizacja,"ul. Krakowska, Stare Miasto, Opole, opolskie",Stare Miasto
+2800,3,63.32,44.0,https://www.otodom.pl/pl/oferta/luksusowy-dwupoziomowy-apartament-na-pasiece-ID4z8wR,LUKSUSOWY DWUPOZIOMOWY APARTAMENT NA PASIECE,"Stare Miasto, Opole, opolskie",Stare Miasto
+2700,3,64.9,42.0,https://www.otodom.pl/pl/oferta/osiedle-rodlo-mieszknie-3pok-ID4z8oj,Osiedle Rodło mieszknie 3pok.,"ul. Nowowiejska, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+2600,2,46.0,57.0,https://www.otodom.pl/pl/oferta/wynajem-2-pokoje-winda-kosciuszki-ID4z37g,"Wynajem 2 pokoje, winda, Kościuszki","Stare Miasto, Opole, opolskie",Stare Miasto
+4000,3,69.81,57.0,https://www.otodom.pl/pl/oferta/na-wynajem-nowy-apartament-taras-mp-w-garazu-ID4z7Ve,Na wynajem nowy Apartament/taras/mp w garażu!,"ul. Harcmistrza Aleksandra Kamińskiego, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+3000,2,42.0,71.0,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-na-wynajem-w-opolu-ul-szalwiowa-ID4z1QL,Nowe mieszkanie na wynajem w Opolu - ul. Szałwiowa,"Stare Miasto, Opole, opolskie",Stare Miasto
+2900,2,30.0,97.0,https://www.otodom.pl/pl/oferta/wynajem-sienkiewicza-2-pokoje-balkon-ID4z1Jv,"Wynajem Sienkiewicza 2 pokoje, balkon","Stare Miasto, Opole, opolskie",Stare Miasto
+3300,2,55.0,60.0,https://www.otodom.pl/pl/oferta/wynajem-55m2-2-pok-3300-ze-wszystkim-ID4z1nu,"Wynajem 55m2 -2 pok, 3300 ze WSZYSTKIM","Stare Miasto, Opole, opolskie",Stare Miasto
+2600,2,26.0,100.0,https://www.otodom.pl/pl/oferta/pierwszy-najem-kawalerki-obok-uo-ID4xlAc,Pierwszy najem! Kawalerki obok UO.,"ul. Grunwaldzka, Śródmieście, Opole, opolskie",Śródmieście
+1900,2,38.0,50.0,https://www.otodom.pl/pl/oferta/2-pokoje-38m2-wysoki-standard-media-miejskie-ID4oG2p,2 pokoje 38m2 WYSOKI STANDARD Media Miejskie,"ul. 1 Maja, Stare Miasto, Opole, opolskie",Stare Miasto
+2200,2,45.14,49.0,https://www.otodom.pl/pl/oferta/zamieszkaj-na-nowych-chabrach-ID4z5kL,Zamieszkaj na Nowych Chabrach,"ul. Oleska, Chabry, Opole, opolskie",Chabry
+2800,3,60.0,47.0,https://www.otodom.pl/pl/oferta/do-wynajecia-nowoczesne-mieszkanie-60-m-opole-ul-domanskiego-ID4xYGV,"Do wynajęcia nowoczesne mieszkanie 60 m² – Opole, ul. Domańskiego","ul. ks. Bolesława Domańskiego, Zaodrze, Opole, opolskie",Zaodrze
+2600,3,52.55,49.0,https://www.otodom.pl/pl/oferta/rezerwacja-os-wodna-nuta-przestronne-3-pokoje-nowe-budownictwo-ID4yRSm,"Rezerwacja - os. Wodna Nuta, przestronne 3 pokoje, nowe budownictwo","ul. Chmielowicka, Szczepanowice - Wójtowa Wieś, Opole, opolskie",Szczepanowice - Wójtowa Wieś
+2500,2,39.0,64.0,https://www.otodom.pl/pl/oferta/do-wynajecia-mieszkanie-po-remoncie-w-centrum-opola-ID4z3Ha,Do wynajęcia: mieszkanie po remoncie w centrum Opola,"ul. Tadeusza Kościuszki, Śródmieście, Opole, opolskie",Śródmieście
+3500,2,47.0,74.0,https://www.otodom.pl/pl/oferta/wyjatkowy-i-niepowtarzalny-apartament-w-opolu-ID4tgNq,wyjątkowy i niepowtarzalny apartament w opolu,"Zaodrze, Opole, opolskie",Zaodrze
+2900,3,57.0,51.0,https://www.otodom.pl/pl/oferta/stylowy-i-funkcjonalny-apartament-3-pokojowy-ID4z2zx,stylowy i funkcjonalny apartament 3 pokojowy,"Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+1800,2,52.2,34.0,https://www.otodom.pl/pl/oferta/mieszkanie-nad-odra-z-widokiem-na-amfiteratr-ID4z27G,Mieszkanie nad Odrą z widokiem na Amfiteratr,"pl. Józefa Piłsudskiego, Nadodrze, Opole, opolskie",Nadodrze
+2100,1,24.0,88.0,https://www.otodom.pl/pl/oferta/nowoczesna-kawalerka-24-m2-klimatyzacja-garaz-niskie-koszty-ID4z1Yf,"Nowoczesna kawalerka 24 m2 - klimatyzacja, garaż, niskie koszty","ul. Szałwiowa, Gosławice, Opole, opolskie",Gosławice
+2600,2,40.0,65.0,https://www.otodom.pl/pl/oferta/nowoczesne-mieszkanie-z-parkingiem-ID4z1ES,Nowoczesne mieszkanie z parkingiem,"Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+2400,3,40.0,60.0,https://www.otodom.pl/pl/oferta/mieszkanie-z-m-postojowym-w-garazu-podziemnym-ID4wfPh,Mieszkanie z m. postojowym w garażu podziemnym,"Półwieś, Opole, opolskie",Półwieś
+2100,1,31.0,68.0,https://www.otodom.pl/pl/oferta/apartament-srodmiescie-telesfora-wysoki-standard-ID4dk1N,Apartament Sródmieście Telesfora Wysoki Standard,"ul. Telesfora, Śródmieście, Opole, opolskie",Śródmieście
+1600,1,30.0,53.0,https://www.otodom.pl/pl/oferta/kawalerka-w-srodmiesciu-do-wynajecia-ID4z0MX,Kawalerka w Śródmieściu do wynajęcia,"Śródmieście, Opole, opolskie",Śródmieście
+2320,1,38.7,60.0,https://www.otodom.pl/pl/oferta/nieaktualne-wynajete-komfortowe-mieszkanie-nowe-budownictwo-ID4yZlP,Nieaktualne - wynajęte! Komfortowe mieszkanie nowe budownictwo,"ul. 1 Maja, Śródmieście, Opole, opolskie",Śródmieście
+2270,3,46.5,49.0,https://www.otodom.pl/pl/oferta/po-remoncie-3-pokoje-2270-zl-chabrow-ID4z03c,"PO REMONCIE, 3 pokoje, 2270 zł, Chabrów","ul. Chabrów, Chabry, Opole, opolskie",Chabry
+2700,2,53.96,50.0,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-do-wynajecia-na-pierwszym-pietrze-ID4yZVt,Nowe mieszkanie do wynajęcia na pierwszym piętrze,"ul. Jodłowa, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+2700,2,50.83,53.0,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-do-wynajecia-ID4yZjP,Nowe mieszkanie do wynajęcia,"ul. Jodłowa, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+3200,2,51.0,63.0,https://www.otodom.pl/pl/oferta/luksus-w-centrum-pierwszy-najem-duzy-taras-ID4yUWW,Luksus w centrum! Pierwszy najem duży taras,"ul. Targowa, Śródmieście, Opole, opolskie",Śródmieście
+2800,2,52.0,54.0,https://www.otodom.pl/pl/oferta/tarnopolska-52m2-z-tarasem-34m2-i-antresola-ID4yYPg,Tarnopolska - 52m2 z tarasem 34m2 i antresolą,"ul. Tarnopolska, Gosławice, Opole, opolskie",Gosławice
+2600,2,46.0,57.0,https://www.otodom.pl/pl/oferta/nowe-osiedle-w-pelni-wyposazone-ID4odjX,Nowe osiedle! W pełni wyposażone!,"ul. Józefa Barona, Szczepanowice - Wójtowa Wieś, Opole, opolskie",Szczepanowice - Wójtowa Wieś
+3000,2,40.0,75.0,https://www.otodom.pl/pl/oferta/na-wynajem-mieszkanie-2-pokojowe-opole-czarnowasy-ID4yrY7,"Na wynajem mieszkanie 2-pokojowe, Opole - Czarnowąsy","Czarnowąsy, Opole, opolskie",Czarnowąsy
+2700,3,63.0,43.0,https://www.otodom.pl/pl/oferta/nowoczesne-3-pokojowe-mieszkanie-na-wynajem-ID4yUW6,Nowoczesne 3 pokojowe mieszkanie na wynajem,"ul. Jana Bytnara ""Rudego"", Armii Krajowej, Opole, opolskie",Armii Krajowej
+2700,2,42.0,64.0,https://www.otodom.pl/pl/oferta/pierwszy-najem-nowoczesny-apartament-malinka-ID4yUeD,"Pierwszy najem, nowoczesny apartament Malinka","ul. Harcmistrza Aleksandra Kamińskiego, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+1700,3,64.0,27.0,https://www.otodom.pl/pl/oferta/przestronne-3-pokojowe-mieszkanie-z-balkonem-ID4ySu9,Przestronne 3-pokojowe mieszkanie z balkonem,"ul. Thomasa Wilsona, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+1900,2,52.49,36.0,https://www.otodom.pl/pl/oferta/ladne-mieszkanie-2-pokojowe-ID4ySsL,Ładne mieszkanie 2 pokojowe,"ul. Tęczowa, Szczepanowice - Wójtowa Wieś, Opole, opolskie",Szczepanowice - Wójtowa Wieś
+3500,3,70.8,49.0,https://www.otodom.pl/pl/oferta/mieszkanie-w-nowoczesnym-budynku-ID4ySc9,Mieszkanie w nowoczesnym budynku,"Stare Miasto, Opole, opolskie",Stare Miasto
+2800,3,71.0,39.0,https://www.otodom.pl/pl/oferta/duze-funkcjonalne-mieszkanie-na-wynajem-ID4yS1a,"duże, funkcjonalne mieszkanie na wynajem","Szczepanowice - Wójtowa Wieś, Opole, opolskie",Szczepanowice - Wójtowa Wieś
+8000,4,210.0,38.0,https://www.otodom.pl/pl/oferta/ekskluzywny-apartament-pasieka-ID4yRKm,"Ekskluzywny Apartament , Pasieka !","Stare Miasto, Opole, opolskie",Stare Miasto
+1900,2,57.7,33.0,https://www.otodom.pl/pl/oferta/406-17022-omw-ID4vq2B,406/17022/OMW,"Grotowice, Opole, opolskie",Grotowice
+2400,3,66.0,36.0,https://www.otodom.pl/pl/oferta/313-16507-omw-ID4yzsb,313/16507/OMW,"Armii Krajowej, Opole, opolskie",Armii Krajowej
+2300,2,34.0,68.0,https://www.otodom.pl/pl/oferta/nowy-apartament-z-balkonem-ID4yNe2,Nowy apartament z balkonem.,"ul. Stawowa, Szczepanowice - Wójtowa Wieś, Opole, opolskie",Szczepanowice - Wójtowa Wieś
+2900,2,45.0,64.0,https://www.otodom.pl/pl/oferta/do-wynajecia-dwupokojowe-w-centrum-ID4yN3q,Do wynajęcia dwupokojowe w Centrum,"ul. Władysława Reymonta, Stare Miasto, Opole, opolskie",Stare Miasto
+1800,2,56.62,32.0,https://www.otodom.pl/pl/oferta/mieszkanie-56-62-m-opole-ID4yMsw,"Mieszkanie, 56,62 m², Opole","Stare Miasto, Opole, opolskie",Stare Miasto
+2500,3,52.0,48.0,https://www.otodom.pl/pl/oferta/zaodrze-przestronne-3-pokojowe-mieszkanie-z-balkonem-ID4toU2,Zaodrze-Przestronne 3-pokojowe mieszkanie z balkonem,"ul. Prószkowska, Zaodrze, Opole, opolskie",Zaodrze
+2800,3,80.0,35.0,https://www.otodom.pl/pl/oferta/srodmiescie-trzy-pokoje-ID4yI10,Śródmieście - trzy pokoje,"Śródmieście, Opole, opolskie",Śródmieście
+2800,3,60.09,47.0,https://www.otodom.pl/pl/oferta/komfortowe-mieszkanie-trzypokojowe-ID4yGKk,Komfortowe mieszkanie trzypokojowe,"Armii Krajowej, Opole, opolskie",Armii Krajowej
+2500,2,72.0,35.0,https://www.otodom.pl/pl/oferta/mieszkanie-200-metrow-od-solarisa-ID4xFvB,Mieszkanie 200 metrów od Solarisa.,"ul. Ozimska, Malinka, Opole, opolskie",Malinka
+2900,3,63.76,45.0,https://www.otodom.pl/pl/oferta/komfortowe-3-pokojowe-mieszkanie-z-balkonem-i-garazem-ID4yyE9,Komfortowe 3-pokojowe mieszkanie z balkonem i garażem,"ul. Feliksa Nowowiejskiego, Półwieś, Opole, opolskie",Półwieś
+2590,3,60.0,43.0,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokojowe-w-rewelacyjnej-lokalizacji-ID4xAss,Mieszkanie 3 pokojowe w rewelacyjnej lokalizacji,"Bierkowice, Opole, opolskie",Bierkowice
+3200,3,120.0,27.0,https://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-120m-opole-pasieka-ID4xyAG,"Mieszkanie do wynajęcia, 120m², Opole, Pasieka","Śródmieście, Opole, opolskie",Śródmieście
+2100,2,67.0,31.0,https://www.otodom.pl/pl/oferta/przestronne-i-rozkladowe-aleja-przyjazni-ID4xyAE,"Przestronne i rozkładowe , Aleja Przyjaźni","Nowa Wieś Królewska, Opole, opolskie",Nowa Wieś Królewska
+2700,3,71.0,38.0,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-71-m-opole-wandy-umeblowane-dla-firm-ID4u4jJ,Mieszkanie 3 pokoje 71 m² Opole Wandy UMEBLOWANE dla FIRM,"ul. Wandy, Nadodrze, Opole, opolskie",Nadodrze
+3900,4,130.0,30.0,https://www.otodom.pl/pl/oferta/dwupoziomowy-apartament-w-chmielowicach-ID4ywQw,Dwupoziomowy apartament w Chmielowicach,"Czarnowąsy, Opole, opolskie",Czarnowąsy
+3000,3,75.0,40.0,https://www.otodom.pl/pl/oferta/sylowe-dwupoziomowe-wynajem-rynek-ID4yspO,Sylowe dwupoziomowe wynajem Rynek,"ul. Rynek, Stare Miasto, Opole, opolskie",Stare Miasto
+1900,2,50.0,38.0,https://www.otodom.pl/pl/oferta/mieszkanie-50-m-opole-ID4ynkb,"Mieszkanie, 50 m², Opole","ul. Batalionu ""Zośka"", Armii Krajowej, Opole, opolskie",Armii Krajowej
+3000,4,55.92,54.0,https://www.otodom.pl/pl/oferta/mieszkanie-55-92-m-opole-ID4yda0,"Mieszkanie, 55,92 m², Opole","ul. Szymona Koszyka, Zaodrze, Opole, opolskie",Zaodrze
+1650,2,47.9,34.0,https://www.otodom.pl/pl/oferta/2-pkl-zwm-w-dobej-cenie-do-wynajecia-ID4y26M,2 PKŁ ZWM w dobej cenie do wynajęcia!!!,"Zaodrze, Opole, opolskie",Zaodrze
+3900,3,71.0,55.0,https://www.otodom.pl/pl/oferta/komfortowy-apartament-z-garazem-podziemnym-ID4xSLU,Komfortowy apartament z garażem podziemnym,"ul. Wiejska, Malinka, Opole, opolskie",Malinka
+2500,3,65.0,38.0,https://www.otodom.pl/pl/oferta/3-pok-malinka-ul-piotrkowska-niski-blok-ID4xRPT,3 pok Malinka ul. Piotrkowska niski blok,"Malinka, Opole, opolskie",Malinka
+5000,3,84.6,59.0,https://www.otodom.pl/pl/oferta/luksusowe-mieszkanie-na-wynajem-ID4xLA3,Luksusowe mieszkanie na wynajem,"Śródmieście, Opole, opolskie",Śródmieście
+5000,4,97.0,52.0,https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-ok-100-m-na-wynajem-ID4xH0B,4-pokojowe mieszkanie ok. 100 m² na wynajem,"ul. Krzemieniecka, Gosławice, Opole, opolskie",Gosławice
+1950,2,48.0,41.0,https://www.otodom.pl/pl/oferta/mieszkanie-na-wynajem-parter-centrum-ID4xF9J,"Mieszkanie na wynajem, parter centrum!","ul. Armii Krajowej, Śródmieście, Opole, opolskie",Śródmieście
+2800,3,66.0,42.0,https://www.otodom.pl/pl/oferta/mieszkanie-na-wynajem-w-dobrej-lokalizacji-ID4xu5i,mieszkanie na wynajem w dobrej lokalizacji,"Półwieś, Opole, opolskie",Półwieś
+2600,3,63.98,41.0,https://www.otodom.pl/pl/oferta/apartament-1-najem-3-pkl-komorka-miejsce-postojowe-ID4xtRW,"Apartament 1 najem 3 pkł , komórka, miejsce postojowe!!","Czarnowąsy, Opole, opolskie",Czarnowąsy
+2300,2,49.0,47.0,https://www.otodom.pl/pl/oferta/apartament-1-najem-2-pkl-komorka-miejsce-postojowe-ID4xtRj,"Apartament 1 najem 2 pkł , komórka, miejsce postojowe!!","Czarnowąsy, Opole, opolskie",Czarnowąsy
+2400,2,52.67,46.0,https://www.otodom.pl/pl/oferta/apartament-1-najem-2-pkl-komorka-miejsce-postojowe-ID4xtPW,"Apartament 1 najem 2 pkł , komórka, miejsce postojowe!!","Czarnowąsy, Opole, opolskie",Czarnowąsy
+800,1,15.0,53.0,https://www.otodom.pl/pl/oferta/pokoj-na-wynajem-ID4vK4p,Pokój na wynajem,"ul. Batalionu ""Zośka"", Armii Krajowej, Opole, opolskie",Armii Krajowej
+2500,2,36.16,69.0,https://www.otodom.pl/pl/oferta/2-pok-mieszkanie-urzadzone-odra-prestige-zaodrze-bez-prowizji-ID4vtBp,2-pok mieszkanie urządzone ODRA Prestige Zaodrze Bez Prowizji,"ul. Feliksa Nowowiejskiego, Zaodrze, Opole, opolskie",Zaodrze
+1900,1,35.0,54.0,https://www.otodom.pl/pl/oferta/luksusowy-apartament-na-os-kasztelanskim-ID4vri5,Luksusowy apartament na os. Kasztelańskim,"ul. Szymona Koszyka, Zaodrze, Opole, opolskie",Zaodrze
+2000,1,29.0,69.0,https://www.otodom.pl/pl/oferta/nowa-funkcjonalna-kawalerka-29-mkw-bez-prowizji-ID4t1XY,Nowa Funkcjonalna kawalerka 29 mkw *BEZ PROWIZJI*,"ul. Harcmistrza Aleksandra Kamińskiego, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+5500,3,94.08,58.0,https://www.otodom.pl/pl/oferta/do-wynajecia-apartament-z-jacuzzi-w-opolu-ID4wy1L,Do wynajęcia Apartament z jacuzzi w Opolu,"Stare Miasto, Opole, opolskie",Stare Miasto
+3000,2,47.9,63.0,https://www.otodom.pl/pl/oferta/ekskluzywny-apartament-2-pok-j-bytnara-rudego-ID4ux9J,Ekskluzywny apartament 2 pok. J. Bytnara Rudego,"ul. Jana Bytnara ""Rudego"", Armii Krajowej, Opole, opolskie",Armii Krajowej
+2650,2,43.0,62.0,https://www.otodom.pl/pl/oferta/mieszkanie-43-m-opole-ID4t2Gf,"Mieszkanie, 43 m², Opole","Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+2500,2,46.51,54.0,https://www.otodom.pl/pl/oferta/nowoczesne-2-pok-mieszkanie-z-balkonem-bez-prowizji-malinka-ID4siBm,Nowoczesne 2-pok mieszkanie z balkonem BEZ PROWIZJI Malinka,"ul. Harcmistrza Aleksandra Kamińskiego, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+2170,1,23.0,94.0,https://www.otodom.pl/pl/oferta/kawalerka-z-tarasem-ID4q6kz,Kawalerka z tarasem,"ul. Górna, Kolonia Gosławicka, Opole, opolskie",Kolonia Gosławicka
+2000,2,53.0,38.0,https://www.otodom.pl/pl/oferta/mieszkanie-na-wynajem-opole-ul-drzymaly-ID4pGWU,Mieszkanie na wynajem Opole ul. Drzymały,"ul. Wojciecha Drzymały, Śródmieście, Opole, opolskie",Śródmieście
+1850,2,38.0,49.0,https://www.otodom.pl/pl/oferta/do-najmu-mieszkanie-2-pokoje-z-balkonem-tarnopols-ID4gLCK,"Do najmu mieszkanie 2 pokoje z balkonem, Tarnopols","ul. Tarnopolska, Malinka, Opole, opolskie",Malinka
