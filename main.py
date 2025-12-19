@@ -7,14 +7,14 @@ import os
 
 if __name__ == "__main__":
 
-    cities_to_scrape = ["Warszawa"]
+    cities_to_scrape = ["Łódź", "Kraków", "Warszawa"]
 
     today = datetime.today()
     formatted_date = today.strftime('%Y-%m-%d')
 
     for city in cities_to_scrape:
         print(f"\nScraping data for city: {city}...")
-        for offer_type in ["Na sprzedaż"]:
+        for offer_type in ["Na wynajem", "Na sprzedaż"]:
             print(f" -> Offer type: {offer_type}...")
             data = scrape_data(offer_type, city)
             data = pd.DataFrame(data)

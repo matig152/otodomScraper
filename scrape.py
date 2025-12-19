@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from streamlit import button
 from utils import safe_click, safe_send_keys, safe_get_text, safe_scroll_into_view
 import time
+from selenium.common.exceptions import StaleElementReferenceException
 
 
 def scrape_data(offer_type, city):
@@ -78,8 +79,12 @@ def scrape_data(offer_type, city):
                 pass
 
         if li_elements:
-            driver.execute_script("arguments[0].scrollIntoView(true);", li_elements[-1])
-            time.sleep(1)  # Give browser time to render if needed
+            for i in range(5):
+                try: 
+                    driver.execute_script("arguments[0].scrollIntoView(true);", li_elements[-1])
+                    time.sleep(1)  # Give browser time to render if needed
+                except StaleElementReferenceException:
+                    time.sleep(5)    
 
         # Next page
         pagination = WebDriverWait(driver, 100).until(
