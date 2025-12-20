@@ -71,7 +71,8 @@ def open_home_page(driver):
     safe_click(driver, LOC['COOKIE_ACCEPT_XPATH']) # Cookies
 
 def navigate_to_listings(driver, city, offer_type):
-    # Choose type and city
+    """Input city and offer type to form and submit."""
+
     safe_click(driver, LOC['TRANSACTION_DROPDOWN_XPATH'])
     xpath_type = LOC['TRANSACTION_TYPE_SALE_XPATH'] if offer_type == "Na sprzedaż" else LOC['TRANSACTION_TYPE_RENT_XPATH']
     safe_click(driver, xpath_type)
@@ -84,6 +85,8 @@ def navigate_to_listings(driver, city, offer_type):
     time.sleep(5)
 
 def scrape_page_and_recurse(driver, current_page, pages_number, all_results):
+    """Scrapes page and calls itself after clicking next page button if available."""
+
     print(f"Pobieranie strony {current_page} z {pages_number}...", end='\r')
     all_results.extend(process_offers(driver))
 
