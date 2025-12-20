@@ -1,0 +1,19 @@
+HOME_URL: "https://www.otodom.pl/"
+
+# XPATHS
+COOKIE_ACCEPT_XPATH: '//*[@id="onetrust-accept-btn-handler"]'
+TRANSACTION_DROPDOWN_XPATH: '//*[@id="transaction-dropdown"]'
+TRANSACTION_TYPE_SALE_XPATH: "/html/body/div[1]/main/section[1]/div/div/form/div/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]"
+TRANSACTION_TYPE_RENT_XPATH: "/html/body/div[1]/main/section[1]/div/div/form/div/div[1]/div[1]/div[2]/div/div[2]/div/div/div[1]"
+LOCATION_DROPDOWN_XPATH: '//*[@id="__next"]/main/section[1]/div/div/form/div/div[1]/div[2]/div[1]'
+LOCATION_INPUT_XPATH: '//*[@id="location-search-input"]'
+LOCATION_SUGGESTION_XPATH: "/html/body/div[1]/main/section[1]/div/div/form/div/div[1]/div[2]/div[1]/div[2]/div/div/div/div/div[1]/div[1]/div"
+SEARCH_SUBMIT_XPATH: '//*[@id="search-form-submit"]'
+LISTINGS_UL_XPATH: '//div[@data-cy="search.listing.organic"]/ul'
+
+# CSS SELECTORS
+DESCRIPTION_LIST_CSS: 'dl[data-sentry-element="StyledDescriptionList"]'
+PRICE_SPAN_CSS: 'span[data-sentry-element="MainPrice"]'
+LISTING_TITLE_P_CSS: 'p[data-cy="listing-item-title"]'
+LISTING_PARAGRAPH_CSS: 'p[data-sentry-element="StyledParagraph"]'
+PAGINATION_UL_CSS: 'ul[data-cy="nexus-pagination-component"]'

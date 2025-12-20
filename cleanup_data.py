@@ -1,5 +1,6 @@
 import pandas as pd
-
+import warnings
+warnings.simplefilter(action="ignore", category=FutureWarning)
 
 def parse(data):
 
@@ -31,7 +32,6 @@ def parse(data):
         # Parse district from adress
         address_text = row[5]
         district = address_text.split(',')[-3].strip() if ',' in address_text else ''
-
 
         # append to DataFrame        
         parsed_data = pd.concat([parsed_data, pd.DataFrame([{
