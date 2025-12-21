@@ -4,7 +4,7 @@ from scrape import scrape_data
 from cleanup_data import parse
 
 def process_city(city, offer_type, date_str):
-    print(f"Przetwarzanie: {city} ({offer_type})...")
+    print(f"\nPrzetwarzanie: {city} ({offer_type})...")
     
     raw_list = scrape_data(offer_type, city)
     df_raw = pd.DataFrame(raw_list)
